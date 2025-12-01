@@ -1,5 +1,7 @@
 # Spotify Artist Network
 
+Names: Andy Quach and Lea Wiranatha
+
 An interactive Python Shiny app that visualizes Spotify artist collaboration networks with filters and multiple visualizations.
 
 ## Prerequisites
@@ -17,7 +19,7 @@ python -m venv venv
 .\venv\Scripts\activate
 
 # macOS/Linux
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
